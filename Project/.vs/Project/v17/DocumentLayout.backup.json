@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Monopoly\\MonopolyProj\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|h:\\monopoly\\monopolyproj\\project\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|H:\\Monopoly\\MonopolyProj\\Project\\Assets\\Scripts\\FollowWorldObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\FollowWorldObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowWorldObject.cs",
+              "DocumentMoniker": "H:\\Monopoly\\MonopolyProj\\Project\\Assets\\Scripts\\FollowWorldObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowWorldObject.cs",
+              "ToolTip": "H:\\Monopoly\\MonopolyProj\\Project\\Assets\\Scripts\\FollowWorldObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowWorldObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:04:09.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "H:\\Monopoly\\MonopolyProj\\Project\\Assets\\Scripts\\main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\main.cs",
+              "ToolTip": "H:\\Monopoly\\MonopolyProj\\Project\\Assets\\Scripts\\main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\main.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwIoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:16:05.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
